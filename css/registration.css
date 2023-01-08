@@ -530,7 +530,7 @@ body {
     justify-content: center;
 }
 
-.content__wrapper {
+.content__wrapper_width_full {
     width: 100%;
 }
 
